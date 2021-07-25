@@ -8,7 +8,7 @@
 
 | #Read     | URL |
 | ----------- | ----------- |
-| Read01    | [Read01]()     |
+| Read01    | [Read01](https://heba1998.github.io/Reading-Note-/Code%20301%20-%20Intermediate%20Software%20Development/Read01)     |
 |Read02   |       [Read02]() |
 |Read03   |       [Read03]() |
 |Read04   |       [Read04]() |
