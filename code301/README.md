@@ -8,7 +8,7 @@
 
 | #Read     | URL |
 | ----------- | ----------- |
-| Read01    | [Read01](https://heba1998.github.io/Reading-Note-/code301/Read01.md)     |
+| Read01    | [Read01](https://heba1998.github.io/Reading-Note-/code301/Read01)     |
 |Read02   |       [Read02]() |
 |Read03   |       [Read03]() |
 |Read04   |       [Read04]() |
