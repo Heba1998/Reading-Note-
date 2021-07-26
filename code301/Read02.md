@@ -36,20 +36,22 @@
 
 ![img](https://i.stack.imgur.com/wqvF2.png)
 
-* What types of things can you pass in the props?
 
-`as like argument to a function i.e. when you creat a component inside the react and you want to render it you will pas it to props you want to give. (like initial value of the counter)`
 
-* What is the big difference between props and state?
+* *What types of things can you pass in the props?*
 
-*prps* `props it passes into a component,handeled outside of that component and must be updatee there`
+`as like argument to a function i.e. when you create a component inside the react and you want to render it you will pas it to props you want to give. (like initial value of the counter)`
+
+* *What is the big difference between props and state?*
+
+*props* `props it passes into a component , handled outside of that component and must be update there`
 
 *state* `is handled inside that component and you can updated inside the component`
 
-* When do we re-render our application?
+* *When do we re-render our application?*
 
-`when the state changed inside the aplication or change the props outside the component`
+`when the state changed inside the application or change the props outside the component`
 
-* What are some examples of things that we could store in state?
+* *What are some examples of things that we could store in state?*
 
 `counter or inside a form for checkbox or input element`
