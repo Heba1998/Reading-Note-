@@ -8,8 +8,8 @@
 
 | #Read     | URL |
 | ----------- | ----------- |
-| Read01    | [Read01](https://heba1998.github.io/Reading-Note-/code401/Read01)     |
-|Read02   |       [Read02](https://heba1998.github.io/Reading-Note-) |
+| Read01    | [Java Basics](https://heba1998.github.io/Reading-Note-/code401/Read01)     |
+|Read02   |       [Arrays, Loops, Imports](https://heba1998.github.io/Reading-Note-/code401/Read02) |
 |Read03   |       [Read03](https://heba1998.github.io/Reading-Note-) |
 |Read04   |       [Read04](https://heba1998.github.io/Reading-Note-) |
 |Read05   |       [Read05](https://heba1998.github.io/Reading-Note-) |
