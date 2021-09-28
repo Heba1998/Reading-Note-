@@ -22,7 +22,7 @@ A class can also be defined as a blueprint from which you can create an individu
 
 ![IMG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJcgPRT3oU6UPvuIP_kGyzdv0dG0xiL_NqQeSCIqLiO7n4Tx3J6-MG_eZFdJNsWOPVmk&usqp=CAU)
 
-* *this is the most two important concepts in java:*
+* *these is the most two important concepts in java:*
 
   * interface:
 
@@ -44,8 +44,8 @@ A class can also be defined as a blueprint from which you can create an individu
 
 ![IMG](https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(13)(89).jpg)
 
-* **Binary** : *with the binary we have to digits (0,1) and the base (2)*
+* **Binary**: *with the binary we have two digits (0,1) and the base (2)*
 
-* **Decimal** : *The Decimal Number System is also called **Base 10**, because it is based on the number 10, with these 10 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9*
+* **Decimal**: *The Decimal Number System is also called **Base 10**, because it is based on the number 10, with these 10 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9*
 
-* **Hexadecimal** : *They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15*
+* **Hexadecimal**: *They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15*
