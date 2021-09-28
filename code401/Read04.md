@@ -24,14 +24,13 @@ A class can also be defined as a blueprint from which you can create an individu
 
 * *this is the most two important concepts in java:*
 
-
-   * interface:
+  * interface:
 
    ```
    Interfaces are the blueprints of the classes. They specify what a class must do and not how. Like a class, an interface can have methods and variables, but the methods declared in an interface are by default abstract (i.e.) they only contain method signature and not the body of the method. Interfaces are used to implement a complete
    ```
-   
-   * inheritance:
+
+  * inheritance:
 
    ```
    It is a mechanism in java by which one class is allowed to inherit the features of the another class. There are multiple inheritances possible in java. They are:
@@ -39,7 +38,7 @@ A class can also be defined as a blueprint from which you can create an individu
    1- Single Inheritance
    2- Multilevel Inheritance
    3- Hierarchical Inheritance
-   ``` 
+   ```
 
 ## ***Binary, Decimal and Hexadecimal Numbers***
 
@@ -47,9 +46,6 @@ A class can also be defined as a blueprint from which you can create an individu
 
 * **Binary** : *with the binary we have to digits (0,1) and the base (2)*
 
-
-
 * **Decimal** : *The Decimal Number System is also called **Base 10**, because it is based on the number 10, with these 10 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9*
-
 
 * **Hexadecimal** : *They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15*
