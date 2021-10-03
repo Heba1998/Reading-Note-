@@ -13,7 +13,7 @@
 |Read03|[Maps,primitives, File I/O](https://heba1998.github.io/Reading-Note-/code401/Read03)|
 |Read04|[OOP](./Read04)|
 |Read05|[Linked Lists](./Read05)|
-|Read06|[Read06](https://heba1998.github.io/Reading-Note-)|
+|Read06|[Inheritance and Interfaces](./Read06)|
 |Read07|[Read07](https://heba1998.github.io/Reading-Note-)|
 |Read08|[Read08](https://heba1998.github.io/Reading-Note-)|
 |Read09|[Read09](https://heba1998.github.io/Reading-Note-)|
