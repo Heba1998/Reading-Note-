@@ -14,8 +14,7 @@
 |Read04|[OOP](./Read04)|
 |Read05|[Linked Lists](./Read05)|
 |Read06|[Inheritance and Interfaces](./Read06)|
-|Read07|[Read07](https://heba1998.github.io/Reading-Note-)|
-|Read08|[Read08](https://heba1998.github.io/Reading-Note-)|
+|Read08|[OO Design](./Read08)|
 |Read09|[Read09](https://heba1998.github.io/Reading-Note-)|
 |Read10|[Read10](https://heba1998.github.io/Reading-Note-)|
 |Read11|[Read11](https://heba1998.github.io/Reading-Note-)|
