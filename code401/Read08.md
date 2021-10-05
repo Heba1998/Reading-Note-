@@ -15,6 +15,8 @@ If you have a block of code in more than two places, consider making it a separa
 ```
 
 * *Rule of three*
+
+
 ![IMG](https://slidetodoc.com/presentation_image_h/f68ce74e2a123469ca3cb836d12cee32/image-2.jpg)
 
 ```
