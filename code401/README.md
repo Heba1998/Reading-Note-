@@ -15,7 +15,7 @@
 |Read05|[Linked Lists](./Read05)|
 |Read06|[Inheritance and Interfaces](./Read06)|
 |Read08|[OO Design](./Read08)|
-|Read09|[Read09](https://heba1998.github.io/Reading-Note-)|
+|Read09|[WRRC and Java](./Read09)|
 |Read10|[Read10](https://heba1998.github.io/Reading-Note-)|
 |Read11|[Read11](https://heba1998.github.io/Reading-Note-)|
 |Read12|[Read12](https://heba1998.github.io/Reading-Note-/code401)|
