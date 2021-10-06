@@ -16,7 +16,7 @@
 |Read06|[Inheritance and Interfaces](./Read06)|
 |Read08|[OO Design](./Read08)|
 |Read09|[WRRC and Java](./Read09)|
-|Read10|[Read10](https://heba1998.github.io/Reading-Note-)|
+|Read10|[Stacks and Queues](./Read10)|
 |Read11|[Read11](https://heba1998.github.io/Reading-Note-)|
 |Read12|[Read12](https://heba1998.github.io/Reading-Note-/code401)|
 |Read13|[Read13](https://heba1998.github.io/Reading-Note-/code401)|
