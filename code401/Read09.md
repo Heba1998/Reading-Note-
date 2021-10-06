@@ -4,6 +4,7 @@
 
 ![IMG](https://www.cdnfinder.com/wp-content/uploads/2018/12/HTTP-Request-and-Response-Over-Web-1.png)
 
+
 *HyperText Transfer Protocol The communications protocol used to connect to Web servers on the Internet or on a local network (intranet). The primary function of HTTP is to establish a connection with the server and send HTML pages back to the user's browser. It is also used to download data from the server either to the browser or to any requesting application that uses HTTP.*
 
 * *The HTTP Request Lifecycle*
@@ -69,7 +70,7 @@ con.setRequestMethod("GET");
 
 4. **Adding Request Parameters**
 
-*we have to set the doOutput property to true, then write a String of the form param1=value¶m2=value to the OutputStream*
+*we have to set the doOutput property to true, then write a String of the form*
 
 5. **Setting Request Headers**
 
