@@ -18,7 +18,7 @@
 |Read09|[WRRC and Java](./Read09)|
 |Read10|[Stacks and Queues](./Read10)|
 |Read11|[Spring](./Read11)|
-|Read12|[Read12](https://heba1998.github.io/Reading-Note-/code401)|
+|Read12|[Spring RESTful Routing & Static Files](./Read12)|
 |Read13|[Read13](https://heba1998.github.io/Reading-Note-/code401)|
 |Read14|[Read14](https://heba1998.github.io/Reading-Note-/code401)|
 |Read15|[Read15](https://heba1998.github.io/Reading-Note-/code401)|
