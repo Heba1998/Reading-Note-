@@ -22,3 +22,4 @@
 |Read13|[Related Resources and Integration Testing](./Read13)|
 |Read15|[Trees](./Read15)|
 |Read16|[Spring Authentication](./Read16)|
+|Read17|[Spring Boot and OAuth2](./Read17)|
