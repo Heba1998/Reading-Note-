@@ -27,3 +27,4 @@
 |Read19|[Spring and Sockets](./Read19)|
 |Read26|[Android Fundamentals](./Read26)|
 |Read27|[ Intents, Activities, and SharedPreferences](./Read27)|
+|Read28|[RecyclerView](./Read28)|
