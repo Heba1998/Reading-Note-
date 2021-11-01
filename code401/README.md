@@ -26,3 +26,4 @@
 |Read18|[Web App Security](./Read18)|
 |Read19|[Spring and Sockets](./Read19)|
 |Read26|[Android Fundamentals](./Read26)|
+|Read27|[ Intents, Activities, and SharedPreferences](./Read27)|
