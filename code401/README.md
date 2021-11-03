@@ -29,3 +29,4 @@
 |Read27|[ Intents, Activities, and SharedPreferences](./Read27)|
 |Read28|[RecyclerView](./Read28)|
 |Read29|[Room](./Read29)|
+|Read30|[Hashtables](./Read30)|
