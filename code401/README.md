@@ -31,3 +31,4 @@
 |Read29|[Room](./Read29)|
 |Read30|[Hashtables](./Read30)|
 |Read31|[Espresso](./Read31)|
+|Read32|[Serverless and Amplify](./Read32)|
