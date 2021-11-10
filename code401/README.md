@@ -34,3 +34,4 @@
 |Read32|[Serverless and Amplify](./Read32)|
 |Read33|[GraphQL @connection](./Read33)|
 |Read34|[Monetization](./Read34)|
+|Read35|[Graphs](./Read35)|
