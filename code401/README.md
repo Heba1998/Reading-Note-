@@ -35,3 +35,4 @@
 |Read33|[GraphQL @connection](./Read33)|
 |Read34|[Monetization](./Read34)|
 |Read35|[Graphs](./Read35)|
+|Read36|[Cognito](./Read36)|
