@@ -40,6 +40,6 @@
 |Read38|[Notifications](./Read38)|
 |Read39|[Kinesis](./Read39)|
 |Read41|[Intent Filters](./Read41)|
-
+|Read42|[Location](./Read42)|
 
 
